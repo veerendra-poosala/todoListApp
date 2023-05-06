@@ -1,8 +1,8 @@
 # Todo Application
 
-Given an `app.js` file and an empty database file `todoApplication.db`.
 
-Create a table with the name `todo` with the following columns,
+
+Created a table with the name `todo` with the following columns,
 
 **Todo Table**
 
@@ -13,7 +13,7 @@ Create a table with the name `todo` with the following columns,
 | priority | TEXT    |
 | status   | TEXT    |
 
-and write APIs to perform operations on the table `todo`,
+and wrote APIs to perform operations on the table `todo`,
 
 <MultiLineNote>
   
